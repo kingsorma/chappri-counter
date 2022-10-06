@@ -51,4 +51,8 @@ p {
     background: blanchedalmond;
     border: 4px solid black;
     border-radius: 10px;
+    display: block;
+    width: 400px;
+    margin: auto;
+    margin-top: 200px;
 }
